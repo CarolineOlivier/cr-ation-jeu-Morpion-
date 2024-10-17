@@ -26,7 +26,7 @@ Assurez-vous d'avoir Ruby installé sur votre système. Si ce n'est pas déjà l
 
 1. **Clonez le projet :**
 
-   git clone https://github.com/votre-utilisateur/morpion.git
+   git clone https://github.com/CarolineOlivier/creation-jeu-Morpion-
    cd morpion
 
 2. **installez les dépendances nécessaires :**
